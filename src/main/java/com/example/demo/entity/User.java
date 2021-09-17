@@ -5,6 +5,8 @@ import java.util.Date;
 import lombok.Data;
 
 //ユーザー情報 Entity
+//
+//
 @Data
 public class User {
 
