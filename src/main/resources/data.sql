@@ -1,0 +1,1 @@
+INSERT INTO `sampledb`.`user` (`id`, `name`, `address`, `phone`, `update_date`, `create_date`) VALUES ('1', 'テックン', '東京都港区タワーマンション', '0123-4567-8900', '2019-05-06 12:00:00', '2019-05-01 12:00:00');
